@@ -1,1 +1,1 @@
-# jacks_euchre
+# jacks_solitaire
